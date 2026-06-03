@@ -72,7 +72,7 @@
       "slot_y": 0
     },
     {
-      "additional_text": "<m>{[Utility/Fine/Heavy] Belt (1-74)}\n<b>{Prefixes}\n<unique>{# to maximum Life}\n<gold>{# to maximum Mana}\n<gold>{Life flasks gain # charges per second}<green>{(Desecrated / Abyss)}\n<rgb(51,153,255){#% chance for flasks you use to not consume charges}<green>{(Desecrated / Abyss)}\n<b>{Suffixes}\n<unique>{#% to <violet>{Chaos} resistence}\n<gold>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} and <violet>{Chaos} resistances <green>{(Desecrated / Abyss)}}\n<gold>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} resistence}\n<rgb(51,153,255)>{+# to <red>{<u>{Strength}} and <u>{Intelligence}}\n<rgb(51,153,255){# Life Regeneration per second}",
+      "additional_text": "<m>{[Utility/Fine/Heavy] Belt (1-74)}\n<b>{Prefixes}\n<unique>{# to maximum Life}\n<gold>{# to maximum Mana}\n<gold>{Life flasks gain # charges per second}<green>{(Desecrated / Abyss)}\n<rgb(51,153,255){#% chance for flasks you use to not consume charges}<green>{(Desecrated / Abyss)}\n<b>{Suffixes}\n<unique>{#% to <violet>{Chaos} resistence}\n<gold>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} and <violet>{Chaos} resistences <green>{(Desecrated / Abyss)}}\n<gold>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} resistence}\n<rgb(51,153,255)>{+# to <red>{<u>{Strength}} and <u>{Intelligence}}\n<rgb(51,153,255){# Life Regeneration per second}",
       "inventory_id": "Belt1",
       "level_interval": [
         1,
@@ -92,18 +92,18 @@
       "slot_y": 0
     },
     {
-      "additional_text": "Two-Stone Ring\n1. +% to Resistance\n2. +# to maximum Life\n3. +# to maximum Mana",
-      "inventory_id": "Ring",
+      "additional_text": "<m>{[Amethyst/Breach/Prismatic] Ring (75+)}\n<b>{Prefixes}\n<unique>{Minions deal #% increased damage }<violet>{(Genesis Tree)}\n<gold>{Minions Break Armour equal to % of Physical damage dealt }<violet>{(Genesis Tree)}\n<gold>{# to maximum Life}\n<rgb(51,153,255)>{% increased maximum Mana <rgb(26, 120, 255){(Essence)}\n<rgb(51,153,255)>{# to maximum Mana}\n<b>{Suffixes}\n<unique>{Minions have % increased skill speed with command skills}<violet>{(Genesis Tree)}\n<gold>{Minions have % increased cooldown recovery rate}\n<gold>{% surpassing chance to gain a Puppet Master stack}<violet>{(Genesis Tree)}\n<rgb(51,153,255)>{Minions have % increased critical [Hit Chance/Damage Bonus]}<violet>{(Genesis Tree)}\n<rgb(51,153,255)>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} and <violet>{Chaos} resistences <green>{(Desecrated / Abyss)}}",
+      "inventory_id": "Ring1",
       "level_interval": [
-        1,
+        75,
         100
       ],
       "slot_x": 0,
       "slot_y": 0
     },
     {
-      "additional_text": "Two-Stone Ring\n1. +% to Resistance\n2. +# to maximum Life\n3. +# to maximum Mana",
-      "inventory_id": "Ring",
+      "additional_text": "<m>{[Amethyst/Breach/Prismatic] Ring (75+)}\n<b>{Prefixes}\n<unique>{Minions deal #% increased damage }<violet>{(Genesis Tree)}\n<gold>{Minions Break Armour equal to % of Physical damage dealt }<violet>{(Genesis Tree)}\n<gold>{# to maximum Life}\n<rgb(51,153,255)>{% increased maximum Mana <rgb(26, 120, 255){(Essence)}\n<rgb(51,153,255)>{# to maximum Mana}\n<b>{Suffixes}\n<unique>{Minions have % increased skill speed with command skills}<violet>{(Genesis Tree)}\n<gold>{Minions have % increased cooldown recovery rate}\n<gold>{% surpassing chance to gain a Puppet Master stack}<violet>{(Genesis Tree)}\n<rgb(51,153,255)>{Minions have % increased critical [Hit Chance/Damage Bonus]}<violet>{(Genesis Tree)}\n<rgb(51,153,255)>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} and <violet>{Chaos} resistences <green>{(Desecrated / Abyss)}}",
+      "inventory_id": "Ring2",
       "level_interval": [
         1,
         100
@@ -125,7 +125,11 @@
       "additional_text": "Lavianga's is BIS for passive recovery.",
       "inventory_id": "Flask2", 
       "slot_x": 0,
-      "slot_y": 0
+      "slot_y": 0,
+      "level_interval": [
+		1,
+		100
+      ]
     },
     {
       "inventory_id": "Charm1",
@@ -890,6 +894,7 @@
           ]
         },
         {
+		  "additional_text": "Replace this with <unique>{Brutus' Brain} when you have it!", 
           "id": "Metadata/Items/Gems/SupportGemMeatShieldTwo",
           "level_interval": [
             1,

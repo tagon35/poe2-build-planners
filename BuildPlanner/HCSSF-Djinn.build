@@ -72,7 +72,7 @@
       "slot_y": 0
     },
     {
-      "additional_text": "<m>{[Utility/Fine/Heavy] Belt}\n<b>{Prefixes}\n<unique>{# to maximum Life}\n<gold>{# to maximum Mana}\n<gold>{Life flasks gain # charges per second}<green>{(Desecrated / Abyss)}\n<rgb(51,153,255){#% chance for flasks you use to not consume charges}<green>{(Desecrated / Abyss)}\n<b>{Suffixes}\n<unique>{#% to <violet>{Chaos} resistence}\n<gold>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} and <violet>{Chaos} resistances <green>{(Desecrated / Abyss)}}\n<gold>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} resistence}\n<rgb(51,153,255)>{+# to <red>{<u>{Strength}} and <u>{Intelligence}}\n<rgb(51,153,255){# Life Regeneration per second}",
+      "additional_text": "<m>{[Utility/Fine/Heavy] Belt (1-74)}\n<b>{Prefixes}\n<unique>{# to maximum Life}\n<gold>{# to maximum Mana}\n<gold>{Life flasks gain # charges per second}<green>{(Desecrated / Abyss)}\n<rgb(51,153,255){#% chance for flasks you use to not consume charges}<green>{(Desecrated / Abyss)}\n<b>{Suffixes}\n<unique>{#% to <violet>{Chaos} resistence}\n<gold>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} and <violet>{Chaos} resistances <green>{(Desecrated / Abyss)}}\n<gold>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} resistence}\n<rgb(51,153,255)>{+# to <red>{<u>{Strength}} and <u>{Intelligence}}\n<rgb(51,153,255){# Life Regeneration per second}",
       "inventory_id": "Belt1",
       "level_interval": [
         1,
@@ -82,7 +82,7 @@
       "slot_y": 0
     },
     {
-      "additional_text": "<m>{[Utility/Fine/Heavy] Belt}\n<b>{Prefixes}\n<unique>{#% increased minion damage per different command skill used in the past 15 seconds}<violet>{(Genesis Tree)}\n<gold>{#% increased effect of archon buffs on you}<violet>{(Genesis Tree)}\n<gold>{Minions deal #% increased damage with command skills.}<violet>{(Genesis Tree)}\n<rgb(51,153,255)>{Minions have #% increased maximum Life}\n<rgb(51,153,255)>{# to maximum Energy Shield}\n<b>{Suffixes}\n<unique>{# to Level of all Minion Skills}\n<gold>{#% increased Reservation Efficiency of Minion Skills}\n<gold>{Minions have +#% surpassing chance to fire an additional projectile}\n<gold>{#% increased archon buff duration}\n<rgb(51,153,255)>{#% to <violet>{Chaos} resistence}\n<rgb(51,153,255)>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} resistence}",
+      "additional_text": "<m>{[Utility/Fine/Heavy] Belt (75+)}\n<b>{Prefixes}\n<unique>{#% increased minion damage per different command skill used in the past 15 seconds}<violet>{(Genesis Tree)}\n<gold>{#% increased effect of archon buffs on you}<violet>{(Genesis Tree)}\n<gold>{Minions deal #% increased damage with command skills.}<violet>{(Genesis Tree)}\n<rgb(51,153,255)>{Minions have #% increased maximum Life}\n<rgb(51,153,255)>{# to maximum Energy Shield}\n<b>{Suffixes}\n<unique>{# to Level of all Minion Skills <violet>{(Genesis Tree)}}\n<gold>{#% increased Reservation Efficiency of Minion Skills <violet>{(Genesis Tree)}}\n<gold>{Minions have +#% surpassing chance to fire an additional projectile <violet>{(Genesis Tree)}}\n<gold>{#% increased archon buff duration <violet>{(Genesis Tree)}}\n<rgb(51,153,255)>{#% to <violet>{Chaos} resistence}\n<rgb(51,153,255)>{#% to <red>{Fire}<white>{/}<rgb(51,153,255)>{Cold}<white>{/}<yellow>{Lightning} resistence}",
       "inventory_id": "Belt1",
       "level_interval": [
         75,
